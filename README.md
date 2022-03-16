@@ -1,13 +1,14 @@
 # Tikaharjoitus
-Ravintolasovellus
 
-Ideana toteuttaa esimerkkisovelluksiin lukeutuva Ravintolasovellus, eli
+Vuokra-asuntosovellus
 
-- Käyttäjä voi kirjautua sisään ja ulos sekä luoda uuden tunnuksen.
-- Käyttäjä näkee ravintolat kartalla ja voi painaa ravintolasta, jolloin siitä näytetään lisää tietoa (kuten kuvaus ja aukioloajat).
-- Käyttäjä voi antaa arvion (tähdet ja kommentti) ravintolasta ja lukea muiden antamia arvioita.
-- Ylläpitäjä voi lisätä ja poistaa ravintoloita sekä määrittää ravintolasta näytettävät tiedot.
-- Käyttäjä voi etsiä kaikki ravintolat, joiden kuvauksessa on annettu sana.
-- Käyttäjä näkee myös listan, jossa ravintolat on järjestetty parhaimmasta huonoimpaan arvioiden mukaisesti.
-- Ylläpitäjä voi tarvittaessa poistaa käyttäjän antaman arvion.
-- Ylläpitäjä voi luoda ryhmiä, joihin ravintoloita voi luokitella. Ravintola voi kuulua yhteen tai useampaan ryhmään.
+Ideana toteuttaa vuokra-asuntojen välittämiseen perustuva verkkopalvelu:
+
+- Käyttäjä voi kirjautua sisään ja ulos sekä luoda uuden tunnuksen
+- Käyttäjä näkee etusivulla tarjolla olevat asunnot lisäysjärjestyksessä
+- Käyttäjä voi lisätä asunnon suosikkeihin ja/tai lähettää siihen hakemuksen
+- Ylläpitäjä voi lisätä tai poistaa vuokrattavia asuntoja sekä määrittää asunnoista näytettävät tiedot
+- Ylläpitäjä voi tarvittaessa lisätä, poistaa tai muokata kaupunkeja, osoitteita, postinumeroita
+- Käyttäjä voi etsiä asuntoja pinta-alan, huonemäärän, rakennustyypin, sijainnin (kadun/kaupungin/kaupunginosan/postinumeron), vuokran suuruuden, kunnon sekä kuvauksessa esiintyvien sanojen/merkkijonojen perusteella
+- Käyttäjä voi järjestää asunnot vuokran suuruuden tai koon perusteella
+
